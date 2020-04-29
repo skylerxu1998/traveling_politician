@@ -7,14 +7,14 @@ The traveling politician problem is a variation of the traveling salesman proble
 For the traveling politician problem with any subset of all 50 states, a brute-force approach is used to find the shortest route among all possible paths. Google Maps is selected as the standard method to measure and compute any geographical information. For a given n-state problem without explicit specification of the states, all states beside Iowa (the starting state) are choosed at random.
 
 ## Contents
-Modules
-Loading data
-Computing Distances
-Shortest route of n-states
-Example n-state solutions
+* Modules
+* Loading data
+* Computing Distances
+* Shortest route of n-states
+* Example n-state solutions
 
 ## Module Prerequisites
-pandas - loading and processing data
-googlemaps / geopy - geographical data functions associated with Google Map
-numpy - array and matrix data processing
-itertools - efficient tools for iterable objects
+* pandas - loading and processing data
+* googlemaps / geopy - geographical data functions associated with Google Map
+* numpy - array and matrix data processing
+* itertools - efficient tools for iterable objects
